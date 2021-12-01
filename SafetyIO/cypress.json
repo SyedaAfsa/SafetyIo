@@ -1,0 +1,9 @@
+{
+
+	"baseUrl": "https://weather.com",
+    "integrationFolder": "cypress/integration/tests",
+    "env": {
+    	"policy" : "[id^=lgpd-notice-new]"
+    }
+  
+}
